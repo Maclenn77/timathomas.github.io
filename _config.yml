@@ -16,8 +16,8 @@ footer: Your Website
 social:
   - title: twitter
     url: https://twitter.com/timthomas
-  # - title: facebook
-  #   url:
+  - title: linkedin
+    url: https://www.linkedin.com/in/tim-thomas-109bab20/
   # - title: stack-overflow
   #   url: http://stackoverflow.com/questions/tagged/jekyll
   # - title: bitbucket
