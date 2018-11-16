@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
 
 # Build Settings
 remote_theme: jeromelachaud/grayscale-theme
