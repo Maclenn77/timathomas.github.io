@@ -1,0 +1,30 @@
+# Site settings
+title: Tim Thomas
+email: t77@uw.edu
+url: https://timothyathomas.com
+description: "merging sociology + data science to understand racial inequity in housing, migration, and segregation."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Your Website
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/timthomas
+  - title: linkedin
+    url: https://www.linkedin.com/in/tim-thomas-109bab20/
+  # - title: stack-overflow
+  #   url: http://stackoverflow.com/questions/tagged/jekyll
+  # - title: bitbucket
+  #   url: http://bitbucket.org/jekyll
+  - title: github
+    url: https://github.com/timathomas
+
+# Build settings
+markdown: kramdown
+permalink: pretty
