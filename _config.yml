@@ -6,7 +6,7 @@ description: "merging sociology & data science to understand racial inequity in 
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: '#333333'
+  primary-dark: '#000000'
   links: '#6699FF'
 
 # Footer settings
